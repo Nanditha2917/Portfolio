@@ -36,7 +36,7 @@ export default function Contact() {
           LinkedIn
         </a>
       </p>
-      <p>📱 Phone: 8951243067</p>
+      {/* <p>📱 Phone: 8951243067</p> */}
     </motion.div>
   );
 }
